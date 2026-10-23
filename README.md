@@ -1,2 +1,2 @@
 # JoacoMiguens49.github.io
-Página Personal
+Sitio de Cash It! (app-ads.txt para AdMob y página de contacto).
